@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SteamGameServerMonitor", "SteamGameServerMonitor\SteamGameServerMonitor.csproj", "{876801BD-1F44-43CF-9EE3-26DADE752410}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Metal.Emailing", "Metal.Emailing\Metal.Emailing\Metal.Emailing.csproj", "{A9FFFF54-A3DE-4467-8FAA-0A020C08C6D6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{876801BD-1F44-43CF-9EE3-26DADE752410}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{876801BD-1F44-43CF-9EE3-26DADE752410}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{876801BD-1F44-43CF-9EE3-26DADE752410}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{876801BD-1F44-43CF-9EE3-26DADE752410}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A9FFFF54-A3DE-4467-8FAA-0A020C08C6D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9FFFF54-A3DE-4467-8FAA-0A020C08C6D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9FFFF54-A3DE-4467-8FAA-0A020C08C6D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9FFFF54-A3DE-4467-8FAA-0A020C08C6D6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
