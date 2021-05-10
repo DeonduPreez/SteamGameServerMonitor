@@ -49,16 +49,6 @@ namespace SteamGameServerMonitor
         {
             try
             {
-                var subject = "Test Images";
-                var body = @"<body>
-<h1>Test Mail</h1>
-<br>
-<br>
-<p>This is a test email</p>
-<img src=""cid:SttLogo"" alt=""Stt-Logo""/>
-</body>";
-                SendEmail(subject, body);
-
                 while (!stoppingToken.IsCancellationRequested)
                 {
                     _alertSent = false;
