@@ -1,0 +1,3 @@
+[submodule "Metal.Emailing"]
+	path = Metal.Emailing
+	url = https://github.com/DeonduPreez/Metal.Emailing.git
